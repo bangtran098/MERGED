@@ -1,0 +1,19 @@
+.business-card__detail {
+    text-align: center;
+    padding: 30px;
+}
+
+.business-card__detail i {
+    font-size: 2rem;
+    color: #f97966;
+}
+
+.business-card__detail h3 {
+    font-size: 1.5rem;
+    margin: 15px;
+}
+
+.business-card__detail p {
+    color: #a7a3a3;
+    font-size: 0.9rem;
+}

@@ -18,6 +18,10 @@
     .carousel-indicators--config {
         bottom: 0%;
     }
+
+    .carousel-caption--config button {
+        font-size: 0.8rem;
+    }
 }
 
 /* Small */
@@ -39,6 +43,20 @@
 
     .carousel-indicators--config {
         bottom: 5%;
+    }
+
+    /* BUSINESS */
+
+    .business-card__detail i {
+        font-size: 2rem;
+    }
+    
+    .business-card__detail h3 {
+        font-size: 1rem;
+    }
+    
+    .business-card__detail p {
+        font-size: 0.7rem;
     }
 }
 
