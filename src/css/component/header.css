@@ -1,0 +1,26 @@
+header {
+    color: white;
+    background-color: #363d41;
+}
+
+.header__socials i {
+    margin: 0 10px;
+    transition: all 0.3s;
+}
+
+.header__phone i {
+    margin: 0 5px;
+    transition: all 0.3s;
+    transform: rotate(270deg);
+}
+
+.header__phone span {
+    font-size: 0.9em;
+}
+
+.header__socials i:hover, 
+.header__phone i:hover, 
+.header__phone span:hover {
+    color: #7f67f8;
+}
+
