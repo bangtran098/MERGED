@@ -1,0 +1,47 @@
+.carousel-indicators--config {
+    
+
+}
+
+.img-fluid--config {
+    width: 100%;
+    filter: brightness(0.4);
+}
+
+.carousel-caption--config {
+    bottom: 35%;
+}
+
+.carousel-caption--config h2 {
+    font-size: 3rem;
+    font-weight: 300;
+    letter-spacing: 10px;
+}
+
+.carousel-caption--config p {
+    margin: 30px 0;
+}
+
+.carousel-caption--config button {
+    border-radius: 0px;
+}
+
+.btn--read-more {
+    background-color: #8f7af9;
+    border: 1px solid transparent;
+}
+
+.carousel-indicators--config {
+    bottom: 20%;
+}
+
+.carousel-indicators--config li {
+    width: 10px;
+    height: 10px;
+    border-radius: 100%;
+    background-color: #8f7af9;
+}
+
+.carousel-indicators--config .active {
+    background-color: white;
+}

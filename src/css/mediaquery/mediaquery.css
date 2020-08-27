@@ -1,16 +1,69 @@
 /* Extra small */
 @media screen and (max-width: 576px) {
+    .carousel-caption--config {
+        bottom: 10%;
+    }
+    
+    .carousel-caption--config h2 {
+        font-size: 1.5rem;
+        font-weight: 300;
+        letter-spacing: 5px;
+    }
+    
+    .carousel-caption--config p {
+        margin: 20px 0;
+    }
+    
+
+    .carousel-indicators--config {
+        bottom: 0%;
+    }
 }
 
 /* Small */
 @media screen and (min-width: 577px) and (max-width: 767px) {
+    .carousel-caption--config {
+        bottom: 15%;
+    }
+    
+    .carousel-caption--config h2 {
+        font-size: 2rem;
+        font-weight: 300;
+        letter-spacing: 5px;
+    }
+    
+    .carousel-caption--config p {
+        margin: 20px 0;
+    }
+    
 
+    .carousel-indicators--config {
+        bottom: 5%;
+    }
 }
 
 /* Medium */
 
 @media screen and (min-width: 768px) and (max-width: 991px) {
+    /* CAROUSEL */
+    .carousel-caption--config {
+        bottom: 20%;
+    }
+    
+    .carousel-caption--config h2 {
+        font-size: 2.5rem;
+        font-weight: 300;
+        letter-spacing: 5px;
+    }
+    
+    .carousel-caption--config p {
+        margin: 20px 0;
+    }
+    
 
+    .carousel-indicators--config {
+        bottom: 5%;
+    }
 }
 
 /* Large */
