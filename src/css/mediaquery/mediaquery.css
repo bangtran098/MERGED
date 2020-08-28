@@ -71,6 +71,11 @@
     .bussines__banner__slogan h2{
         font-size: 1.6rem;
     } 
+
+        /* FOOTER */
+    .footer__our-link {
+        padding-left: 50px;
+    }    
 }
 
 /* Medium */
@@ -101,11 +106,7 @@
         font-size: 2rem;
         margin-top: 0px;
     }
-    
-    .bussines__banner__contact button {
-        /* position: relative; */
-    }
-    
+        
 }
 
 /* Large */
