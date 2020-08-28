@@ -1,0 +1,20 @@
+.our_stats__item {
+    text-align: center;
+}
+
+.our_stats__item p:first-child {
+    color: #f97966;
+    font-size: 2.7rem;
+    font-weight: 500;
+}
+
+.our_stats__item h3 {
+    font-size: 1.3rem;
+    color: rgb(53, 51, 51);
+    letter-spacing: 2px;
+}
+
+.our_stats__item p:last-child {
+    font-size: 0.9rem;
+    color: #a7a3a3;
+}

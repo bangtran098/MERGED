@@ -1,12 +1,13 @@
 .common_title {
     text-align: center;
     width: 80%;
-    margin: 40px auto;
+    margin: 50px auto;
 }
 
 .common_title__name {
     font-size: 3rem;
     font-weight: 300;
+    text-shadow: 0px 0px 1px rgba(0, 0, 0, 0.329);
 }
 
 .common_title__description {

@@ -1,0 +1,50 @@
+.sevices {
+    background-image: url("../../img/3.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.common_title--text-white {
+    color: white;
+}
+
+.common_title--text-white .common_title__description {
+    color: rgb(223, 219, 219);
+}
+
+.services__item {
+    text-align: center;
+    color: black;
+    padding: 40px 40px;
+    background-color: white;
+}
+
+.services__item i {
+    font-size: 2rem;
+    color: #f97c69;
+}
+
+.services__item h3 {
+    font-size: 1.5rem;
+    padding: 15px;
+    letter-spacing: 1.5px;
+}
+
+.services__item p {
+    font-size: 0.8rem;
+    line-height: 1.5rem;
+}
+
+
+.services__item--orange {
+    color: white;
+    background-color: #f97c69;
+}
+
+.services__item--orange i {
+    color: white;
+}
+
+
+
